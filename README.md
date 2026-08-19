@@ -1,6 +1,6 @@
 # S.M. Shreyas
 
-### Data Engineer | Python • PySpark • SQL • ETL/ELT
+### Data Engineer | Python • PySpark • SQL • ETL / ELT
 
 I am a Data Engineer focused on building reliable data pipelines,
 processing structured and unstructured data, and transforming raw
